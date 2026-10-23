@@ -1,0 +1,126 @@
+{
+  "id": "2b4953e8-474a-48f4-a62c-a26af308c17d",
+  "definition": null,
+  "globalSettings": {
+    "appInMaintenance": false,
+    "canvasMaxWidth": 100,
+    "canvasMaxWidthType": "%",
+    "canvasMaxHeight": 2400,
+    "canvasBackgroundColor": "var(--cc-default-border)",
+    "backgroundFxQuery": "var(--cc-default-border)",
+    "appMode": "auto",
+    "theme": {
+      "id": "a276a3a9-8d07-4782-abef-37d2f38104dd",
+      "name": "Module",
+      "organizationId": "6375828b-289c-4086-9c42-ed0f8dcaf606",
+      "definition": {
+        "brand": {
+          "colors": {
+            "primary": {
+              "light": "#d0021bff",
+              "dark": "#ed8b97ff"
+            },
+            "secondary": {
+              "light": "#f7e70fff",
+              "dark": "#f5f1c1ff"
+            },
+            "tertiary": {
+              "light": "#1E823B",
+              "dark": "#318344"
+            }
+          }
+        },
+        "text": {
+          "font": "IBM Plex Sans",
+          "colors": {
+            "primary": {
+              "light": "#1B1F24",
+              "dark": "#CFD3D8"
+            },
+            "placeholder": {
+              "light": "#6A727C",
+              "dark": "#858C94"
+            }
+          }
+        },
+        "border": {
+          "radius": {
+            "default": 6,
+            "small": 0,
+            "large": 0
+          },
+          "colors": {
+            "default": {
+              "light": "#CCD1D5",
+              "dark": "#3C434B"
+            },
+            "weak": {
+              "light": "#E4E7EB",
+              "dark": "#2B3036"
+            }
+          }
+        },
+        "systemStatus": {
+          "colors": {
+            "success": {
+              "light": "#1E823B",
+              "dark": "#318344"
+            },
+            "error": {
+              "light": "#D72D39",
+              "dark": "#D03F43"
+            },
+            "warning": {
+              "light": "#BF4F03",
+              "dark": "#BA5722"
+            }
+          }
+        },
+        "surface": {
+          "colors": {
+            "appBackground": {
+              "light": "#F6F6F6",
+              "dark": "#121518"
+            },
+            "surface1": {
+              "light": "#FFFFFF",
+              "dark": "#1E2226"
+            },
+            "surface2": {
+              "light": "#F6F8FA",
+              "dark": "#2B3036"
+            },
+            "surface3": {
+              "light": "#E4E7EB",
+              "dark": "#3C434B"
+            }
+          }
+        }
+      },
+      "isDefault": false,
+      "isBasic": false,
+      "createdAt": "2026-09-11T13:06:49.035Z",
+      "updatedAt": "2026-09-11T13:06:56.251Z"
+    }
+  },
+  "pageSettings": {
+    "properties": {
+      "disableMenu": {
+        "value": "{{true}}",
+        "fxActive": false
+      }
+    }
+  },
+  "showViewerNavigation": false,
+  "homePageId": "6eaad350-bca9-4f08-83ea-05c18f7f2312",
+  "versionType": "branch",
+  "appId": "73bb2d0d-7451-4f7f-a4b6-745d47b16fd8",
+  "promotedFrom": null,
+  "status": "DRAFT",
+  "description": null,
+  "publishedAt": null,
+  "releasedAt": null,
+  "isStub": false,
+  "sourceTag": null,
+  "isSynced": false
+}
