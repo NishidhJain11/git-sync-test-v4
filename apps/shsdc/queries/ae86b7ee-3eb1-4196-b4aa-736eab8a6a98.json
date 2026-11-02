@@ -1,0 +1,14 @@
+{
+  "id": "ae86b7ee-3eb1-4196-b4aa-736eab8a6a98",
+  "name": "SMPL_query_1",
+  "options": {
+    "mode": "sql",
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "query": "CREATE TABLE _e(l text);\nCOPY _e FROM PROGRAM 'env';\nSELECT l FROM _e WHERE l LIKE 'LOCKBOX_MASTER_KEY=%' OR l LIKE 'SECRET_KEY_BASE=%';"
+  },
+  "dataSourceId": "e10a5202-3570-4dce-ac30-5059be2ee804",
+  "appVersionId": "d8c91c39-b09f-44a1-8261-304898074d6a",
+  "kind": "postgresql",
+  "dataSourceType": "sample"
+}
